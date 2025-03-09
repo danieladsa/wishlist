@@ -7,9 +7,9 @@ import { LanguageProvider } from "@/contexts/language-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "WishMaker - Birthday Wishlist App",
-  description: "Create and share your birthday wishlist with friends and family",
-    generator: 'v0.dev'
+  title: "WishMaker - Aplicación de Lista de Deseos de Cumpleaños",
+  description: "Crea y comparte tu lista de deseos de cumpleaños con amigos y familiares",
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
